@@ -84,4 +84,8 @@ The project shows how **data-driven insights and machine learning** can improve 
 
 ## Author
 
-**Charitra Jain** — MCA Student | Aspiring Data Analyst
+**Charitra Jain** — MCA Student | Aspiring Data Analyst & Data Scientist
+
+Python | SQL | EDA | Machine Learning
+
+🔗 LinkedIn: https://www.linkedin.com/in/charitra-jain-8271b4240/
